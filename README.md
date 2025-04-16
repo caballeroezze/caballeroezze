@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://caballeroezze.github.io](https://caballeroezze.github.io)
 
-- 💬 Ask me about **Data Analytics, Data Science**
+- 💬 Ask me about **Data Analytics, Data Science, AI**
 
 - 📫 How to reach me **caballeroezze@gmail.com**
 
